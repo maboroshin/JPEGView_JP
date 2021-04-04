@@ -22,4 +22,4 @@
 
 * Software developer : David Kleiner et al.
 * 1st Japanese translation : by Hiroyuki Matenokoji. (2015)
-* 2nd translator: Japanese by maboroshin (2019, Adjustment, and translate little new part)
+* 2nd Japanese translation : by maboroshin (2019, Adjustment, and translate little new part)
