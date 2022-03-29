@@ -6,7 +6,7 @@
 
 いつのまにか別の開発者が引き継ぎGithubに移動して、2021年に後続の1.0.37.1にバージョンアップ、2022年に1.0.39.1だが、送った日本語ファイルになっていない（開発者が違うので笑）。気づいてGithubで併合リクエストを出しました。1.0.37.1の次のバージョンで本家に同梱かと。
 
-## インストール
+## 日本語ファイルの導入
 
 `JPEGView.exe` と同じフォルダに [strings_ja.txt](strings_ja.txt) を置きます。PortableApps では、`JPEGViewPortable\App\JPEGView` の中です。
 
@@ -18,9 +18,13 @@
 * [KeyMap.txt 差分](https://sourceforge.net/p/jpegview/code/370/tree//current/JPEGView/Config/KeyMap.txt?diff=306)
 * [readme.html 差分](https://sourceforge.net/p/jpegview/code/366/tree//current/JPEGView/Config/readme.html?diff=312)
 
+## マウスホイールで画像切り替えの有効化
+
+```JPEGView.ini``` の ```NavigateWithMouseWheel``` を ```true``` にする。
+
 ## ライセンス
 
-本家のライセンスがオープンソースの GPLv2 なので、それに従います。どなたでもライセンスを継承して更新してください。
+本家のライセンスがオープンソースの GPLv2 なので、日本語ファイルはそれに従います。どなたでもライセンスを継承して更新してください。
 
 * Software developer : David Kleiner et al.
 * 1st Japanese translation : by Hiroyuki Matenokoji. (2015)
@@ -29,3 +33,7 @@
 2015年の翻訳者名は、[readme.txt](https://github.com/sylikc/jpegview/blob/master/readme.txt) の 1.0.34 に記載あり。
 
 英語文字列一覧となる翻訳元ファイルはないとのこと(2022年3月): https://github.com/sylikc/jpegview/pull/9#issuecomment-870261967
+
+## メモ
+
+修正忘れ 別に → 別の
