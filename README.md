@@ -2,7 +2,7 @@
 
 〆 バージョン1.0.40でGithubからのダウンロードに組み込み済み。
 
-[JPEGView](https://github.com/sylikc/jpegview), ([sourceferge](https://sourceforge.net/projects/jpegview/)) は、タイトルバー以外がない画像ビューアで、マウスホイールで同じフォルダ内の画像を切り替えできます。自動のスライドショーもできるし、かなり高速にできる。（マウスホイールで画像切り替えの有効化は、```JPEGView.ini``` の ```NavigateWithMouseWheel``` の値を ```true``` にする）
+[JPEGView](https://github.com/sylikc/jpegview), ([sourceferge](https://sourceforge.net/projects/jpegview/)) は、タイトルバー以外がない画像ビューアで、マウスホイールで同じフォルダ内の画像を切り替えできます。自動のスライドショーもできるし、かなり高速にできる。（マウスホイールで画像切り替えの有効化は、```JPEGView.ini``` の ```NavigateWithMouseWheel``` の値を ```true``` にする。ポータブルならソフト終了中に \Data\settings フォルダ内）
 
 sourceferge本家の同梱では、2015年の日本語化ファイルが同梱されているが、JPEGViewの最終更新は2018年2月のバージョン1.0.37なので未訳部分が残っていた。開発が停滞しているようで、2019年にこちらの開発者に日本語化ファイルを送付したが返信がないので公開しました。
 
