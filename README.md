@@ -10,6 +10,8 @@ sourceferge本家の同梱では、2015年の日本語化ファイルが同梱�
 
 ## 日本語ファイルの導入
 
+注: 古いバージョンで手動で日本語ファイルを置き換える説明です。
+
 `JPEGView.exe` と同じフォルダに [strings_ja.txt](strings_ja.txt) を置きます。[PortableAppsのJPEGView](https://portableapps.com/apps/graphics_pictures/jpegview_portable) では、`JPEGViewPortable\App\JPEGView` の中です。
 
 ## DukeDogDukedom さんによる日本語化
